@@ -13,4 +13,6 @@ add_executable(untitled
         Week3/BudgetAllocation.cpp
         Week3/CleaningApartment.cpp
         Week3/GSMNetwork.cpp
+        Week4/TravelingSalesman.cpp
+        Week4/PlanParty.cpp
 )

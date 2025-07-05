@@ -10,4 +10,7 @@ add_executable(untitled
         Week2/AdAllocation.cpp
         Week2/Diet.cpp
         Week2/Energy.cpp
+        Week3/BudgetAllocation.cpp
+        Week3/CleaningApartment.cpp
+        Week3/GSMNetwork.cpp
 )
